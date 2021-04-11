@@ -13,6 +13,10 @@ nav a{
   padding: 0px 10px;
   background-color: grey;
 }
+figcaption {
+  font-size: smaller; 
+  text-align: center;
+}
 #details {
   display: block;
   float: left;
