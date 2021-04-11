@@ -20,4 +20,6 @@ figcaption {
 #details {
   display: block;
   float: left;
+  text-align: center;
+  background-color: red
 }
