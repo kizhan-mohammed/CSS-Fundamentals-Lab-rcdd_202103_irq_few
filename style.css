@@ -14,6 +14,6 @@ nav a{
   background-color: grey;
 }
 #details {
-  display: block
+  display: block;
   float: left;
 }
